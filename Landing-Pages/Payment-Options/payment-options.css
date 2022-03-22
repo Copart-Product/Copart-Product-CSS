@@ -382,7 +382,7 @@ div {
     display: none;
   }
   .page-content {
-    margin: 40px 24px;
+    margin: 40px 16px;
   }
   .table-container {
     width: 100%;
@@ -474,6 +474,12 @@ div {
   }
   .flex-cell {
     width: 100%;
+  }
+  #view-more {
+    left: 34%;
+  }
+  #view-less {
+    left: 34%;
   }
 }
 /*# sourceMappingURL=payment-options.css.map */

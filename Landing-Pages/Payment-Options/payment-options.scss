@@ -353,7 +353,7 @@ div {
     }
 
     .page-content {
-      margin: 40px 24px;
+      margin: 40px 16px;
     }
 
     .table-container {
@@ -466,4 +466,13 @@ div {
   .flex-cell {
     width: 100%; //1px = border right
   }
+
+  #view-more {
+    left: 34%;
+}
+
+#view-less {
+  left: 34%;
+}
+
 }
