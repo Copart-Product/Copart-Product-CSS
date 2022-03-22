@@ -1,0 +1,22 @@
+
+/* RESET */
+.inner-wrap .mbt {
+	max-width: 1200px;
+	margin: 40px auto 0 auto;
+}
+.inner-wrap .container {
+	width: 100% !important;
+	padding: 0;
+}
+.inner-wrap .sectionBlock {
+	border: none;
+	border-radius: 0;
+	font-size: 14px;
+	margin-bottom: 0;
+}
+.inner-wrap .sectionContent {
+	padding: 0;
+}
+.inner-wrap .clear {
+	display: none;
+}
