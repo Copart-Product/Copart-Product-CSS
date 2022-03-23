@@ -232,7 +232,7 @@ div {
   background: #DFE4E8;
   color: #000;
   border-color: #CACACA;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .flex-table.row:nth-child(odd) .flex-row {
@@ -417,9 +417,6 @@ div {
     display: none;
   }
   .show-on-mobile {
-    display: none;
-  }
-  .flex-table:first-of-type {
     display: none;
   }
   .flex-table {

@@ -216,7 +216,7 @@ div {
     background: $table-header;
     color: #000;
     border-color: $table-header-border;
-    font-size: 20px;
+    font-size: 18px;
   }
   &.row:nth-child(odd) .flex-row {
     background: $row-bg;
@@ -388,10 +388,6 @@ div {
   .show-on-mobile {
     display: none;
   }
-
-    .flex-table:first-of-type {
-      display: none;
-    }
 
     .flex-table {
       flex-flow: column;
