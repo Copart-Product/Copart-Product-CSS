@@ -159,6 +159,22 @@ $table-header-border: #CACACA;
 $table-border: #DFE4E8;
 $row-bg: #fff;
 
+.table-key {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 24px;
+
+  div {
+    margin-right: 16px;
+
+    img {
+      margin-right: 8px;
+    }
+  }
+}
+
 div {
   box-sizing: border-box;
 }

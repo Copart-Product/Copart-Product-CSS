@@ -157,6 +157,31 @@ h4 {
 }
 
 /* TABLE STYLING */
+.table-key {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  margin-bottom: 24px;
+}
+
+.table-key div {
+  margin-right: 16px;
+}
+
+.table-key div img {
+  margin-right: 8px;
+}
+
 div {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
