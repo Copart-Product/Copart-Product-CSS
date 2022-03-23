@@ -448,6 +448,28 @@ div {
   .column {
     width: 100%;
   }
+  #choose-right-methods {
+    text-align: center;
+    margin-bottom: 24px;
+  }
+  .buyer-type {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    text-align: center;
+  }
+  .buyer-type h4 {
+    text-align: center !important;
+  }
+  .buyer-type p {
+    max-width: 1000px;
+    text-align: center;
+  }
+  .buyer-type img {
+    width: 150px;
+    height: auto;
+    margin: 24px 0;
+  }
 }
 
 @media all and (max-width: 430px) {
